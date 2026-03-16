@@ -1,0 +1,5 @@
+# compiled binary
+gigguide-mcp
+
+# local Claude Code settings
+.claude/settings.local.json
